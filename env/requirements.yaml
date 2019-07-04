@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.2
 - name: springboot
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.9
+  version: 0.0.10
 - name: sprintgboot-gcloud-project
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
